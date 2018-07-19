@@ -110,6 +110,7 @@ body {
     margin-left: 1rem;
     color: #3bc9db;
     font-weight: 800;
+    text-decoration: none;
 }
 
 .notActive .check-mark {
